@@ -43,10 +43,17 @@ Prepares data for reporting and analytics
 
 Connects to Synapse for interactive dashboards and reports
 
+
 🧰 ****** TECH STACK ********
+
 1.Component Service Purpose 
+
 2.Ingestion Azure Data Factory Pipeline orchestration 
+
 3.Storage Azure Data Lake Gen2 Raw & transformed data 
+
 4.Processing Azure Databricks Data transformation using PySpark 
-5.Serving Azure Synapse Analytics Data modeling and querying 
+
+5.Serving Azure Synapse Analytics Data modeling and querying
+
 6.Reporting Power BI Business intelligence dashboards
